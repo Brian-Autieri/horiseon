@@ -11,7 +11,7 @@ The purpose of this challenge is to refactor code for the homepage on the Horise
 - The webpage is now more accessible by including alt attributes on all images and icons
 - The Search Engine Optimization link at the top of the page is now working
 
-### Website Link
+### Webpage Link
 
 https://brian-autieri.github.io/horiseon/
 
