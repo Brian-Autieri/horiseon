@@ -13,7 +13,7 @@ The purpose of this challenge is to refactor code for the homepage on the Horise
 
 ### Website Link
 
-https://
+https://brian-autieri.github.io/horiseon/
 
 ## Usage
 
